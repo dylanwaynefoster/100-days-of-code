@@ -19,3 +19,9 @@
 **Today's Progress**: Added labels, text fields, and buttons to UI. I didn't add in any event handlers -- yet...
 
 **Thoughts**: Need to figure out BorderLayout vs. FlowLayout...I can't get new lines in FlowLayout. Everything is back-to-back
+
+### Day 3: January 6, 2017
+
+**Today's Progress**: Not much at all :-( ... I worked for over 2 hours and seriously jacked up my UI. I'm not uploading this to Github.
+
+**Thoughts**: Need to search the web to figure out how other people manage layouts in Java...the built in stuff is really not very good...
