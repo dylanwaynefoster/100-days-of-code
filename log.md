@@ -25,3 +25,9 @@
 **Today's Progress**: Not much at all :-( ... I worked for over 2 hours and seriously jacked up my UI. I'm not uploading this to Github.
 
 **Thoughts**: Need to search the web to figure out how other people manage layouts in Java...the built in stuff is really not very good...
+
+### Day 4: January 7, 2017
+
+**Today's Progress**: Made a webapp that autofills city, state, and county after zipcode is entered. I lauched this to github pages.
+
+**Thoughts**: I'm actually pretty proud of it. I got the Google geocoding API to work and debugged that it needed to be HTTPS. I haven't used APIs successfully this quickly before. https://dylanwaynefoster.github.io/zipToCounty/
