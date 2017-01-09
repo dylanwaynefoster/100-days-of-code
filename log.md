@@ -31,3 +31,11 @@
 **Today's Progress**: Made a webapp that autofills city, state, and county after zipcode is entered. I lauched this to github pages.
 
 **Thoughts**: I'm actually pretty proud of it. I got the Google geocoding API to work and debugged that it needed to be HTTPS. I haven't used APIs successfully this quickly before. https://dylanwaynefoster.github.io/zipToCounty/
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Added getters and setters to the main class. Commited methods to do the calculations.
+
+**Thoughts**: I haven't called methods from a separate class in a while. I need to review. I got kind of frustrated; I've been snowed in and not really feeling it today. I did about 1 1/2 hours today for the AleCulator2 project. I worked a long time on the zipToCounty app yesterday...probably why I'm not feeling it today.
+
+
