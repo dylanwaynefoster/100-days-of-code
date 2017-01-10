@@ -38,4 +38,10 @@
 
 **Thoughts**: I haven't called methods from a separate class in a while. I need to review. I got kind of frustrated; I've been snowed in and not really feeling it today. I did about 1 1/2 hours today for the AleCulator2 project. I worked a long time on the zipToCounty app yesterday...probably why I'm not feeling it today.
 
+### Day 6: January 9, 2017
+
+**Today's Progress**: Generally cleaned up. Added event handling, and successfully called methods from another class. It is now an actual functioning ABV calculator!
+
+**Thoughts**: I'm getting better at knowing how/when to call methods just generally. The UI thing is beating me up. I need to figure out the Layout Managers...like really figure them out.
+
 
