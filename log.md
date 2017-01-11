@@ -44,4 +44,10 @@
 
 **Thoughts**: I'm getting better at knowing how/when to call methods just generally. The UI thing is beating me up. I need to figure out the Layout Managers...like really figure them out.
 
+### Day 7: January 10, 2017
+
+**Today's Progress**: Now using GridBagLayout on AleCulator2. It looks much better but still not quite what I want. Also, I added a Menu Bar with File and Other Calculations tab.
+
+**Thoughts**: The UI is WAY better now and at least intuitive. It still isn't what I envisioned. I'm going to continue working on it. I added a Menu Bar with File menu that includes 'exit'...but I can't get it to fire. I need to work on that. Also, continue working on Layout Managers until I get that down.
+
 
