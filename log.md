@@ -50,4 +50,9 @@
 
 **Thoughts**: The UI is WAY better now and at least intuitive. It still isn't what I envisioned. I'm going to continue working on it. I added a Menu Bar with File menu that includes 'exit'...but I can't get it to fire. I need to work on that. Also, continue working on Layout Managers until I get that down.
 
+### Day 8: January 11, 2017
+
+**Today's Progress**: Added Menu Items About, and Coming Soon to the menu bar. I added informational pop-ups for those two with JOption pane. Using Action Listeners for those and for the 'Exit' choice which I finally got to work. I need to ensure that I really understand what's going on with these, they are a little tricky.
+
+**Thoughts**: Getting better at actually following the OO logic. Need to continue getting better in general and read other people's Java code.
 
