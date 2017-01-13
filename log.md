@@ -56,3 +56,8 @@
 
 **Thoughts**: Getting better at actually following the OO logic. Need to continue getting better in general and read other people's Java code.
 
+### Day 9: January 12, 2017
+
+**Today's Progress**: None really...I worked for over 2 hours trying to get a new content pane from a menu item...nothing to commit... :-(
+
+**Thoughts**: I really suck at action listeners and Layout Managers; I mean - really suck...I may get a book just about Java Swing components.
