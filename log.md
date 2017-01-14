@@ -61,3 +61,10 @@
 **Today's Progress**: None really...I worked for over 2 hours trying to get a new content pane from a menu item...nothing to commit... :-(
 
 **Thoughts**: I really suck at action listeners and Layout Managers; I mean - really suck...I may get a book just about Java Swing components.
+
+### Day 10: January 13, 2017
+
+**Today's Progress**: Created a separate Class in the AleCulator program specifically to figure out Layout Managers...currently it is Card Layout which looks like what I am going to end up wanting/using...should have used it first. I was actually getting what I planned at the end.
+
+**Thoughts**: I only did a little over an hour but it felt very productive. I'm getting things quicker now (or at least things are sinking in). I plan on trying to install and mess around with Spring and Maven this weekend. Apparently if you want to be a working Java programmer (that gets paid anyway) these tools are essential.
+
