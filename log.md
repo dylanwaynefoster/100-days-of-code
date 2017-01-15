@@ -74,3 +74,9 @@
 
 **Thoughts**: Maven is a bitch to install, but I need to figure it out. If I want to be a highly paid, professional Java programmer I apparently have to have Spring and Maven in my toolbox...
 
+### Day 12: January 15, 2017
+
+**Today's Progress**: Added key listener for Enter/Submit...added yet another layout attempt - JTabbedPane. Downloaded Spring Tool Suite.
+
+**Thoughts**: Tabbed is definitely more of what I was looking for (but I've said this before...). I'm hoping the Spring Tool Suite will handle the Maven nonsense I dealt with yesterday.
+
