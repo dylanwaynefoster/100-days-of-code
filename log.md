@@ -68,3 +68,9 @@
 
 **Thoughts**: I only did a little over an hour but it felt very productive. I'm getting things quicker now (or at least things are sinking in). I plan on trying to install and mess around with Spring and Maven this weekend. Apparently if you want to be a working Java programmer (that gets paid anyway) these tools are essential.
 
+### Day 11: January 14, 2017
+
+**Today's Progress**: Added CardLayout to my main AleFrame Class. It definitely needs work but I got the separate panels to do what I intended...I have to hit the trigger to add the second panel twice, so something is up with my logic there...Spent WAY too long trying to 'install' Maven on my machine.
+
+**Thoughts**: Maven is a bitch to install, but I need to figure it out. If I want to be a highly paid, professional Java programmer I apparently have to have Spring and Maven in my toolbox...
+
