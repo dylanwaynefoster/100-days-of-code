@@ -80,3 +80,9 @@
 
 **Thoughts**: Tabbed is definitely more of what I was looking for (but I've said this before...). I'm hoping the Spring Tool Suite will handle the Maven nonsense I dealt with yesterday.
 
+### Day 13: January 16, 2017
+
+**Today's Progress**: Added some new methods with getters for temperature conversion calculations to be used in the "Other Helpful Calculations" section of AleCulator2. I also added labels and text fields to the JTabbedPane to use these calculations...this is for testing/planning purposes.
+
+**Thoughts**: Did 2 hours. I'm a little tired/burnt on this project but hanging in. Continuing my quest for Java knowledge; planning on buying a Spring Framework book to fill in some of the gaps in said Java knowledge.
+
