@@ -86,3 +86,9 @@
 
 **Thoughts**: Did 2 hours. I'm a little tired/burnt on this project but hanging in. Continuing my quest for Java knowledge; planning on buying a Spring Framework book to fill in some of the gaps in said Java knowledge.
 
+### Day 14: January 17, 2017
+
+**Today's Progress**: Added the temperature conversion functionality to the AleClass constructor. Inserted some HTML inside the JLabels to get new lines because again: Layout Managers suck! Reading on Spring, Maven, and Hibernate.
+
+**Thoughts**: I'm continuing to get better. The Layout Managers are frustrating, but all of the work is allowing me to see what I really want to do with the project. Also, my understanding of the flow of business logic in an object oriented setting is much improved since starting (and because of) this challenge.
+
