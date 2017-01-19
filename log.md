@@ -92,3 +92,9 @@
 
 **Thoughts**: I'm continuing to get better. The Layout Managers are frustrating, but all of the work is allowing me to see what I really want to do with the project. Also, my understanding of the flow of business logic in an object oriented setting is much improved since starting (and because of) this challenge.
 
+### Day 15: January 18, 2017
+
+**Today's Progress**: Added a greeting pane; moved the ABV calculator to the "Calculators" menu in order to make it a more general purpose brewing calculator. Cleaned up a good bit. Made the frame non-resizable. (This all refers to the AleCulator2 project.)
+
+**Thoughts**: It's definitely buggy, but I'm happy with the progress. I need to make sure you can clear/refresh the panes. I also need to make sure you can choose any of the calculations in any order...currently you have to go in the order they are listed.
+
