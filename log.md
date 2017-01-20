@@ -98,3 +98,9 @@
 
 **Thoughts**: It's definitely buggy, but I'm happy with the progress. I need to make sure you can clear/refresh the panes. I also need to make sure you can choose any of the calculations in any order...currently you have to go in the order they are listed.
 
+### Day 16: January 19, 2017
+
+**Today's Progress**: Added functionality to choose any of the calculations in any order you want. Added 'Refresh' buttons to the panes to clear the fields and allow for new data entry.
+
+**Thoughts**: I am able to usually figure things out much quicker than I used to be, at least when trouble shooting. The daily 'practice regimen' seems to be working. I'm definitely not following the 'text book,' if you will, as far as best practices are concerned, but I am getting things done. These are things I want to get done and they are working. That, to me, means a lot.
+
