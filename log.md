@@ -104,3 +104,9 @@
 
 **Thoughts**: I am able to usually figure things out much quicker than I used to be, at least when trouble shooting. The daily 'practice regimen' seems to be working. I'm definitely not following the 'text book,' if you will, as far as best practices are concerned, but I am getting things done. These are things I want to get done and they are working. That, to me, means a lot.
 
+### Day 17: January 20, 2017
+
+**Today's Progress**: Added Menus and sub-menus for AleCulator project. Used action listeners to build the JPanels - non-functioning at the moment.
+
+**Thoughts**: Not really feeling it today...however, I was able to knock out exactly what I was wanting in about an hour and twenty minutes. That is definitely progress that I can recognize. The way I am generating the JPanels while simultaneously removing any others is getting cumbersom. I also am putting everything in the constructor; someone will definitely give me a hard time about it. I am going to consider refactoring it once I get it finished, perhaps before I package it.
+
