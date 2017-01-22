@@ -110,3 +110,9 @@
 
 **Thoughts**: Not really feeling it today...however, I was able to knock out exactly what I was wanting in about an hour and twenty minutes. That is definitely progress that I can recognize. The way I am generating the JPanels while simultaneously removing any others is getting cumbersom. I also am putting everything in the constructor; someone will definitely give me a hard time about it. I am going to consider refactoring it once I get it finished, perhaps before I package it.
 
+### Day 18: January 21, 2017
+
+**Today's Progress**: Added dry and liquid measurement calculations to use in the JPanels I created yesterday. I also made getter/setter methods for those calculation methods. They are now functional in the calculator.
+
+**Thoughts**: I can tell the 19 day streak is helping me out. I can think up something and type it out and get going a lot faster now. I need to start a new project soon.
+
