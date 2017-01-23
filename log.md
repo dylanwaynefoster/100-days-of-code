@@ -116,3 +116,9 @@
 
 **Thoughts**: I can tell the 19 day streak is helping me out. I can think up something and type it out and get going a lot faster now. I need to start a new project soon.
 
+### Day 19: January 22, 2017
+
+**Today's Progress**: Added Dry Weight Method for Pounds/Kilograms to AleCulator2 project. 
+
+**Thoughts**: Did an hour and 10 minutes...wasn't really feeling it...21 days makes a habit! Look forward to tomorrow.
+
