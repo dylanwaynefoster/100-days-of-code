@@ -122,3 +122,9 @@
 
 **Thoughts**: Did an hour and 10 minutes...wasn't really feeling it...21 days makes a habit! Look forward to tomorrow.
 
+### Day 20: January 23, 2017
+
+**Today's Progress**: Added some more conversion methods. Installed Spring Tool Suite.
+
+**Thoughts**: Did very little over 1 hour - but I got my time in. I need to make a new project. This one does what I want and I'm growing weary of working on it. I may start something new with the Spring framework.
+
