@@ -128,3 +128,9 @@
 
 **Thoughts**: Did very little over 1 hour - but I got my time in. I need to make a new project. This one does what I want and I'm growing weary of working on it. I may start something new with the Spring framework.
 
+### Day 21: January 24, 2017
+
+**Today's Progress**: Started a Spring Boot project...sort of got it to work(?). Maven still likes to not show on my machine even though I know it's there. Also started a console game project in Java; nothing I want to commit yet...
+
+**Thoughts**: Maven is alarmingly frustrating...I really need to spend some time laying out my projects instead of approaching it like a brain storm...that can be good at times - like a jam session - but I kind of need to know where I'm going to draw the map...
+
