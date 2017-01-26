@@ -134,3 +134,9 @@
 
 **Thoughts**: Maven is alarmingly frustrating...I really need to spend some time laying out my projects instead of approaching it like a brain storm...that can be good at times - like a jam session - but I kind of need to know where I'm going to draw the map...
 
+### Day 22: January 25, 2017
+
+**Today's Progress**: Wrote some Apex code for a SalesForce app that sends email.
+
+**Thoughts**: Apex is interesting. It's basically Java. I will probably check out the SalesForce ecosystem more.
+
