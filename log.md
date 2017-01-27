@@ -140,3 +140,8 @@
 
 **Thoughts**: Apex is interesting. It's basically Java. I will probably check out the SalesForce ecosystem more.
 
+### Day 23: January 26, 2017
+
+**Today's Progress**: Built an Android app that accepts text...
+
+**Thoughts**: Android Studio is really cool. I'm just starting but that was really fun.
