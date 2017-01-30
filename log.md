@@ -145,3 +145,10 @@
 **Today's Progress**: Built an Android app that accepts text...
 
 **Thoughts**: Android Studio is really cool. I'm just starting but that was really fun.
+
+### Day 24: January 30, 2017
+
+**Today's Progress**: Added a second activity and an Intent to trigger that activity in my Android app. I'm just using it as a scratch pad at the moment to learn Android.
+
+**Thoughts**: I took a few days off -- I was fried...I like Android; I may stick around in that ecosystem for a while. I get to continue learning Java at a high level while also working with XML and develop some mobile chops.
+
