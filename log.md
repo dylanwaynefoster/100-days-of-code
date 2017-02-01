@@ -152,3 +152,9 @@
 
 **Thoughts**: I took a few days off -- I was fried...I like Android; I may stick around in that ecosystem for a while. I get to continue learning Java at a high level while also working with XML and develop some mobile chops.
 
+### Day 25: January 31, 2017
+
+**Today's Progress**: Started another app in Android Studio.
+
+**Thoughts**: Digging the Android ecosystem. Considering Udacity NanoDegree program.
+
